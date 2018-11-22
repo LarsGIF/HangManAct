@@ -1,0 +1,25 @@
+
+<resources>
+    <string name="app_name">Hang Man</string>
+    <string-array name="guessWords">
+        <item>"Zebra"</item>
+        <item>"Reindeer"</item>
+        <item>"Crocodile"</item>
+        <item>"Cheetah"</item>
+        <item>"Gorilla"</item>
+        <item>"Monkey"</item>
+        <item>"Badger"</item>
+    </string-array>
+
+    <string name="googleBtnText">Google</string>
+    <string name="inTextView">Enter character</string>
+    <string name="outTextView">--------------</string>
+    <string name="playActivityBtn">Play</string>
+    <string name="testBtnText">Test</string>
+    <string name="tooManyCharsErr">Input one character at a time!</string>
+    <string name="infoMsgText">You have %d ties left</string>
+    <string name="alreadyGuessedMsg">You have already guessed this character!</string>
+    <string name="replayBtnText">New Game</string>
+    <string name="gameLostMsg">You got hanged!!!</string>
+    <string name="gameWonMsg">You wonn!!!</string>
+</resources>

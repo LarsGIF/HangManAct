@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hänga gubben</string>
+    <string-array name="guessWords">
+        <item>"Zebra"</item>
+        <item>"Ren"</item>
+        <item>"Krokodil"</item>
+        <item>"Gepard"</item>
+        <item>"Gorilla"</item>
+        <item>"Apa"</item>
+        <item>"Grävling"</item>
+    </string-array>
+
+    <string name="googleBtnText">Google</string>
+    <string name="inTextView">Skriv tecken</string>
+    <string name="outTextView">--------------</string>
+    <string name="playActivityBtn">Spela</string>
+    <string name="testBtnText">Testa</string>
+    <string name="tooManyCharsErr">Skriv ett tecken åt gången!</string>
+    <string name="infoMsgText">Du har %d försök kvar.</string>
+    <string name="alreadyGuessedMsg">Du har redan gissat på detta tecken!</string>
+    <string name="replayBtnText">Nytt spel</string>
+    <string name="gameLostMsg">Du blev hängd!!!</string>
+    <string name="gameWonMsg">Du vann!!!</string>
+</resources>
